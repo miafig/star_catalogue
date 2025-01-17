@@ -1,7 +1,4 @@
-// PHYS30762 Object Oriented Programming in C++
-// Project: Star Catalogue
 // Mercedes Figueiredo
-// 10541186
 // 23/05/2022
 // file star_catalogue.h
 
